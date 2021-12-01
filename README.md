@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with JavaScript programming
 - 💬 Ask me about Linguagem C
 - 📫 How to reach me: Mh192374@gmail.com
-- 😄 Pronouns: 
-- ⚡ fact: ADS student
+- ⚡ fact: tech lover
 
 
  <div>
