@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning JavaScript, NodeJS, SQL Language, Language C, C++, C#
+- 🌱 I’m currently learning Java, JavaScript, NodeJS, TypeScript, Angular, Language C, C++, C#
 - 👯 I’m looking to collaborate on projects in Language C
 - 🤔 I’m looking for help with JavaScript programming
 - 💬 Ask me about Linguagem C
